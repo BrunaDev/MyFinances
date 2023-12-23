@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "FinanceProject",
+    "slug": "FinanceProject",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/iconF.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splashF.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#8000FF"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#8000FF"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
